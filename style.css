@@ -131,7 +131,13 @@ figure {
     font-weight: lighter;
 }
 
-/* action part */
+span {
+    float: right;
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+/* call to action part */
 
 .action {
     display: flex;
